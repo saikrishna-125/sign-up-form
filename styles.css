@@ -25,7 +25,7 @@ body {
 .side-bar {
   display: flex;
   flex-direction: column;
-  width: 500px;
+  width: 40vw;
   flex-shrink: 0;
   flex-grow: 0;
   height: 100%;
