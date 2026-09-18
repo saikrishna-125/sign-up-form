@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Odin";
+  src: url("fonts/Norsebold.woff2") format("woff2") tech(color-COLRv1);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Odin";
+  src: url("fonts/Norse.woff2") format("woff2") tech(color-COLRv1);
+}
+
+h1 {
+  font-family: "Odin";
+}
