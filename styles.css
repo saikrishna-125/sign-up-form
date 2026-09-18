@@ -9,6 +9,27 @@
   src: url("fonts/Norse.woff2") format("woff2") tech(color-COLRv1);
 }
 
-h1 {
-  font-family: "Odin";
+body {
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.side-bar {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.side-bar p {
+  margin-top: 60px;
+}
+
+.side-bar div {
+  text-align: center;
 }
